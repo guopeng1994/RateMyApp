@@ -17,8 +17,8 @@ dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: fr.skyost.rate_my_app
-        pluginClass: RateMyAppPlugin
+      # android:
+      #  package: fr.skyost.rate_my_app
+      #  pluginClass: RateMyAppPlugin
       ios:
         pluginClass: RateMyAppPlugin
